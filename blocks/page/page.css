@@ -1,0 +1,6 @@
+@import url(./__header/page__header.css);
+
+.page {
+    max-width: 1920px;
+    background-color: #E5E5E5;
+}
