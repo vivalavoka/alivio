@@ -1,0 +1,16 @@
+@import url(./__body/intro__body.css);
+@import url(./__title/intro__title.css);
+@import url(./__description/intro__description.css);
+@import url(./__button/intro__button.css);
+
+.intro {
+  position: relative;
+  width: 100%;
+  height: 895px;
+  background: url(../../images/header-background.png) no-repeat center center;
+  background-size: contain;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
