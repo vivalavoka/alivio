@@ -1,6 +1,7 @@
 @import url(./__header/page__header.css);
 
 .page {
-    max-width: 1920px;
-    background-color: #E5E5E5;
+  max-width: 1920px;
+  background-color: #E5E5E5;
+  font-family: 'Lato', Arial, sans-serif;
 }
