@@ -1,10 +1,10 @@
 # Layout Practice of the Alivio project
 
-[GitHub Page]()
+<a href="http://example.com/" target="_blank">Github Pages</a>
 
 ## Free template in Figma
 
-[Alivio](https://www.uistore.design/items/alivio-landing-page-for-figma/)
+<a href="https://www.uistore.design/items/alivio-landing-page-for-figma/" target="_blank">Alivio</a>
 
 ## Technologies
 
