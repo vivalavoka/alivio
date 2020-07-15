@@ -1,12 +1,16 @@
 @import url(./__logo/header__logo.css);
 @import url(./__menu/header__menu.css);
 @import url(./__auth/header__auth.css);
+@import url(./__sign-in/header__sign-in.css);
+@import url(./__trial/header__trial.css);
 
 .header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    max-height: 85px;
-    background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  height: 85px;
+  box-sizing: border-box;
+  padding: 0 275px;
 }
