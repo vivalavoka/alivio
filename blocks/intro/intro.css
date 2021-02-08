@@ -5,6 +5,7 @@
 
 .intro {
   position: relative;
+  top: -4px;
   width: 100%;
   height: 895px;
   background: url(../../images/header-background.png) no-repeat center center;
