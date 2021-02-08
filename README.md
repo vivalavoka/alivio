@@ -1,6 +1,6 @@
 # Layout Practice of the Alivio project
 
-<a href="http://example.com/" target="_blank">Github Pages</a>
+<a href="https://vivalavoka.github.io/alivio/" target="_blank">Github Pages</a>
 
 ## Free template in Figma
 
